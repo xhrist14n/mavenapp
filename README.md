@@ -1,2 +1,0 @@
-# mavenapp
-maven app basic

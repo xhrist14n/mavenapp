@@ -1,8 +1,0 @@
-url: https://mochajs.org
-exclude:
-  - README.md
-  - .*
-  - LICENSE*
-repository: mochajs/mocha
-source: docs
-
